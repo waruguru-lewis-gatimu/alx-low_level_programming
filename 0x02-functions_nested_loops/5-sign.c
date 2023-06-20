@@ -23,3 +23,8 @@ int print_sign(int n)
 	}
 		return (-1);
 }
+int main()
+{
+int n = 10;
+return print_sign;
+}

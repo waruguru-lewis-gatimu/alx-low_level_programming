@@ -26,5 +26,6 @@ int print_sign(int n)
 int main()
 {
 int n = 10;
-return print_sign;
+int sign = print_sign(10);
+return sign;
 }
